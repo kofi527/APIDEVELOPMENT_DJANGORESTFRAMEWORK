@@ -13,3 +13,10 @@
    
 ![2  activating virtual environment with scripts](https://github.com/user-attachments/assets/894b1b6c-2d9a-4a4c-8363-6e7ef0dabd11)
 
+3. The next step is to install django into your project directory.
+
+ ![3  install django in your project folder](https://github.com/user-attachments/assets/56416e7e-bc33-4973-b3be-7df14ac927db)
+
+4. Your next step is to install Djangorestframework
+
+   ![4  install djangorestframework](https://github.com/user-attachments/assets/a44835bf-bda3-4c76-85d7-64e8c02f4375)

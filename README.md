@@ -20,3 +20,11 @@
 4. Your next step is to install Djangorestframework
 
    ![4  install djangorestframework](https://github.com/user-attachments/assets/a44835bf-bda3-4c76-85d7-64e8c02f4375)
+
+5. Create an admin project with the command
+   "django-admin startproject mysite"
+   "django-admin startapp my app"
+
+   ![5  cret the start project, cd into mysite and create a django app in it](https://github.com/user-attachments/assets/06da29be-969b-4fbe-82e7-38b66d5c83f5)
+
+   

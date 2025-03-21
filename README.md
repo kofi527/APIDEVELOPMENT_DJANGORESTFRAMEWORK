@@ -27,4 +27,10 @@
 
    ![5  cret the start project, cd into mysite and create a django app in it](https://github.com/user-attachments/assets/06da29be-969b-4fbe-82e7-38b66d5c83f5)
 
+6. Hey We create our firs Model in Visual Studio code that gives details of the descriptions.
+   
+   ![5  model description](https://github.com/user-attachments/assets/022203eb-1ea6-4661-a0a2-d8a7e41a144c)
+
+   
+   
    

@@ -31,6 +31,8 @@
    
    ![5  model description](https://github.com/user-attachments/assets/022203eb-1ea6-4661-a0a2-d8a7e41a144c)
 
-   
+7.   We Navigate to the settings.py file and add myapps to the settings.py file witch is located within your project directory.
+    ![6  Navigate to the settings py file and add myapps to the installed apps this is part of migrations](https://github.com/user-attachments/assets/f3de50c9-6718-4b82-a5ea-97253fc1a756)
+
    
    

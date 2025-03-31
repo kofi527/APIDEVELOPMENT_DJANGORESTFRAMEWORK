@@ -37,7 +37,20 @@
 
 8. Make migrations with the command manage.py to make migrations to the model being created.
 
-   ![7 with the command python manage py makemigrations](https://github.com/user-attachments/assets/938e380e-1b99-47b1-9d6b-885e4eb59cf9)
+   ![7 with the command python manage py makemigrations](https://github.com/user-attachments/assets/63933d00-af74-4cd2-8833-104d6bd9ea8b)
+
+9. we make migrations with manage.py at our command line
+    
+    ![8  python manage py migrate](https://github.com/user-attachments/assets/36e9c5e8-a296-4579-aa6a-5ef5541f3999)
+
+10. A Superuesr have been created successfullly
+    
+  ![9  Superuser created successfully](https://github.com/user-attachments/assets/d403615e-4ab8-419a-a2a4-3fcbf602b12a)
+
+    
+
+
+   
 
 
    

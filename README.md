@@ -1,5 +1,12 @@
-# DJANGORESTAPIDEV
- DJANGO AND PYTHON
+### DJANGORESTAPIDEV
+
+![django and python](https://github.com/user-attachments/assets/03c4c47d-69d2-41ff-88b4-d83710ee43f5)
+
+
+ ### DJANGO AND PYTHON
+
+ STEPS TO PROJECT EXECUTION
+ 
 1.	Create a virtual environment to with the formula “virtualenv env” in the selected project folder
 2.	API RESTFRAMEWORK IS AN APPLICATION THAT WORKS IN DJANGO  that has the ability of converting it into an API
 3.	We will be creating a model that saves movie details

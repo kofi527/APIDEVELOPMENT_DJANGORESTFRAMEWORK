@@ -54,6 +54,11 @@
     
   ![9  Superuser created successfully](https://github.com/user-attachments/assets/d403615e-4ab8-419a-a2a4-3fcbf602b12a)
 
+11. Now we run server that generates the local host for the commandline (python manage.py runserver )
+
+![10 now we runserver with python manage py runserver](https://github.com/user-attachments/assets/30f5e561-6bc7-4129-923a-29d32cfe2502)
+
+
     
 
 

@@ -58,6 +58,12 @@
 
 ![10 now we runserver with python manage py runserver](https://github.com/user-attachments/assets/30f5e561-6bc7-4129-923a-29d32cfe2502)
 
+12. try and identify the username used for the migrations
+
+  ![10 0 try and identify the username you used for the migrations](https://github.com/user-attachments/assets/73d9e5e0-f097-4fb8-8ef9-e9dd9c8a8ee1)
+
+    
+
 
     
 

@@ -62,7 +62,10 @@
 
   ![10 0 try and identify the username you used for the migrations](https://github.com/user-attachments/assets/73d9e5e0-f097-4fb8-8ef9-e9dd9c8a8ee1)
 
-    
+13.   Navigate to the admin page and enter passward and username.
+
+   ![11  navigate to  admin and enter the password and username](https://github.com/user-attachments/assets/22b8da1c-1e23-461a-8adc-1254893d8371)
+
 
 
     

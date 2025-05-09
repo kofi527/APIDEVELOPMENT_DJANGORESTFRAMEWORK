@@ -66,7 +66,8 @@
 
    ![11  navigate to  admin and enter the password and username](https://github.com/user-attachments/assets/22b8da1c-1e23-461a-8adc-1254893d8371)
 
-
+14. Navigate and write the command python.py 
+   ![7 with the command python manage py makemigrations](https://github.com/user-attachments/assets/b2032d5e-ddc2-48f3-b9aa-253b8e50cc96)
 
     
 

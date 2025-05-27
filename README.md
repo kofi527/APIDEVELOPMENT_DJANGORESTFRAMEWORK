@@ -69,7 +69,10 @@
 14. Navigate and write the command python.py 
    ![7 with the command python manage py makemigrations](https://github.com/user-attachments/assets/b2032d5e-ddc2-48f3-b9aa-253b8e50cc96)
 
-    
+ 15.    Sueperuser has been created successfully
+
+    ![9  Superuser created successfully](https://github.com/user-attachments/assets/c40a16a8-acbc-4911-ba72-0d57ec3ccb8e)
+
 
 
    

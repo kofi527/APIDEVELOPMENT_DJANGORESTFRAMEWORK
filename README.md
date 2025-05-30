@@ -73,6 +73,9 @@
 
     ![9  Superuser created successfully](https://github.com/user-attachments/assets/c40a16a8-acbc-4911-ba72-0d57ec3ccb8e)
 
+16. it is important to always identify the various usernames used for the following migrations.
+    ![10 0 try and identify the username you used for the migrations](https://github.com/user-attachments/assets/f306925e-4be9-4744-b7dd-40bdd9ad2581)
+
 
 
    

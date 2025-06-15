@@ -76,6 +76,8 @@
 16. it is important to always identify the various usernames used for the following migrations.
     ![10 0 try and identify the username you used for the migrations](https://github.com/user-attachments/assets/f306925e-4be9-4744-b7dd-40bdd9ad2581)
 
+17. we navigate to the admin panel and enter the password usernames
+    ![11  navigate to  admin and enter the password and username](https://github.com/user-attachments/assets/55b224bd-27ce-4016-b3f6-4814271d21b8)
 
 
    

@@ -79,6 +79,10 @@
 17. we navigate to the admin panel and enter the password usernames
     ![11  navigate to  admin and enter the password and username](https://github.com/user-attachments/assets/55b224bd-27ce-4016-b3f6-4814271d21b8)
 
+18. The administraiton page for your application has been setup
+
+    ![12  welcome to the admi page of my application](https://github.com/user-attachments/assets/fe0a828e-57ce-4b8e-ac1c-6a7b888aea62)
+
 
    
 

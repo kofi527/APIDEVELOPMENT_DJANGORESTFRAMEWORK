@@ -84,7 +84,10 @@
     ![12  welcome to the admi page of my application](https://github.com/user-attachments/assets/fe0a828e-57ce-4b8e-ac1c-6a7b888aea62)
 
 
-   
+ 18.   the model is now registered in the admi.py
+
+     ![14  Registration of model in admi py 1](https://github.com/user-attachments/assets/eaf954fb-0c64-4b9d-ac2e-28e1c62169d7)
+
 
 
    

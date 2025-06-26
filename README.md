@@ -89,6 +89,8 @@
      ![14  Registration of model in admi py 1](https://github.com/user-attachments/assets/eaf954fb-0c64-4b9d-ac2e-28e1c62169d7)
 
 
+19. Movie model when aded is save as an object
+   ![16  when a movie is added it is saved as an object](https://github.com/user-attachments/assets/68619957-6c83-44a9-9da6-9516ef9f1e38)
 
    
    

@@ -92,5 +92,6 @@
 19. Movie model when aded is save as an object
    ![16  when a movie is added it is saved as an object](https://github.com/user-attachments/assets/68619957-6c83-44a9-9da6-9516ef9f1e38)
 
-   
-   
+20. Initializing display name of your movie in the admi directory
+   ![17  initializing this code displays the name of your movie in the admi direcotry  return self](https://github.com/user-attachments/assets/d95c1f42-62d7-467c-8937-ce68f7619b4c)
+

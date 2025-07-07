@@ -95,3 +95,8 @@
 20. Initializing display name of your movie in the admi directory
    ![17  initializing this code displays the name of your movie in the admi direcotry  return self](https://github.com/user-attachments/assets/d95c1f42-62d7-467c-8937-ce68f7619b4c)
 
+
+21. Rest Framework is added to our installed existing applications
+    ![19  we add the rest framework to our installed apps at the settings py diretory](https://github.com/user-attachments/assets/47099713-cff5-4a34-998f-560e892462fe)
+
+

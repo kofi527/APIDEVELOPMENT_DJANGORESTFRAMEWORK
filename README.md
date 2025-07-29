@@ -99,4 +99,6 @@
 21. Rest Framework is added to our installed existing applications
     ![19  we add the rest framework to our installed apps at the settings py diretory](https://github.com/user-attachments/assets/47099713-cff5-4a34-998f-560e892462fe)
 
+22. New api is created within our environment variables
+![20  then create a new api  older within our environmenta variables with the name movie api](https://github.com/user-attachments/assets/357a0f98-cde6-412a-a89a-2c68b446484d)
 
